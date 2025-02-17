@@ -8,20 +8,18 @@ Additionally, you can save your favorite recipes directly in your browser’s lo
 
 ### Features
 <ul>
-  <ul>🔍 <strong>Recipe Search:</strong> Find a wide range of recipes based on ingredients, categories, or preferences.</ul>
-  <ul>⭐ <strong>Save Favorites:</strong> Bookmark your favorite recipes and access them anytime.</ul>
-  <ul>💾 <strong>Local Storage Support:</strong> Favorite recipes are stored in the browser, so they persist across sessions.</ul>
-  <ul>📱 <strong>Fully Responsive:</strong> Enjoy a seamless experience on desktops, tablets, and mobile devices.</ul> 
+  <ul>🔍 <strong>Recipe Search:</strong> <em> Find a wide range of recipes based on ingredients, categories, or preferences.</em> </ul>
+  <ul>⭐ <strong>Save Favorites:</strong> <em> Bookmark your favorite recipes and access them anytime.</em> </ul>
+  <ul>💾 <strong>Local Storage Support:</strong> <em> Favorite recipes are stored in the browser, so they persist across sessions.</em> </ul>
+  <ul>📱 <strong>Fully Responsive:</strong> <em> Enjoy a seamless experience on desktops, tablets, and mobile devices.</em> </ul> 
 </ul>
-
-
 
 ### Tech Stack
 <ul>
-<ul> ⚛️ React – Dynamic and interactive UI </ul>
-<ul> 🛠️ Redux – State management </ul>
-<ul> 🚀 React Router – Seamless navigation </ul>
-<ul> 🎨 Material-UI – Modern and responsive UI components </ul>
+<ul> ⚛️ React – <em> Dynamic and interactive UI </em> </ul>
+<ul> 🛠️ Redux – <em> State management </em> </ul>
+<ul> 🚀 React Router – <em> Seamless navigation </em> </ul>
+<ul> 🎨 Material-UI – <em> Modern and responsive UI components </em> </ul>
 </ul>
 
 ### Getting Started
