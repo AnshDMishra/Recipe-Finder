@@ -34,4 +34,4 @@ npm start
 
 
 
-#### ✨ work in progress 🍽️🔥
+#### ✨ Work In Progress 🍽️🔥
